@@ -40,8 +40,6 @@
 
     This makes code more robust and easier to maintain.
 
-================================================================================
-*/
 
 #include <iostream>
 using namespace std;
