@@ -2,25 +2,24 @@
 
 
 
-
-🎯 AIM:
+ AIM:
 
     To study constructor overloading in C++ using a practical example and 
     highlight its role in object-oriented programming.
 
-🛠 APPARATUS / SOFTWARE USED:
+ APPARATUS / SOFTWARE USED:
 
     - Visual Studio Code (VS Code)
    
 
-📌 OBJECTIVES:
+ OBJECTIVES:
 
     - To understand how multiple constructors in a class increase usability.
     - To implement different types of constructors in a class.
     - To explain how constructor overloading helps in real-world applications.
 
 
-📖 THEORY:
+ THEORY:
 
 
     Constructor Overloading allows multiple constructors with different argument
@@ -89,7 +88,7 @@ int main() {
 }
 
  
-  ✅ CONCLUSION:
+   CONCLUSION:
   
         - Constructor overloading makes it possible to initialize objects in 
           multiple ways.
